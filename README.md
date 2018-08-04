@@ -1,2 +1,2 @@
 # Business-Analytics-Cases
-Solution to various case studies
+Predicitng the customer set to whom loan should be provided
